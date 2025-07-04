@@ -1,0 +1,100 @@
+Uri: https://lp.descompliqueadermatologia.com.br/comments/feed/
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lp.descompliqueadermatologia.com.br/feed/
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lp.descompliqueadermatologia.com.br/pag-vnd-v4/
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\pag-vnd-v4\index.htm
+Content Type: text/html
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/litespeed/css/246c96eaa1082a6d29779f6bec633fcb.css?ver=8ca10
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\litespeed\css\246c96eaa1082a6d29779f6bec633fcb.css
+Content Type: text/css
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/1525ca2a-3503-42f1-b6c1-6270ca799456.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\1525ca2a-3503-42f1-b6c1-6270ca799456.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/363ee0c9-c5df-4e9c-a814-1fc224381f51.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\363ee0c9-c5df-4e9c-a814-1fc224381f51.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/39778572-117b-4b8d-92a7-305901fbf2c0.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\39778572-117b-4b8d-92a7-305901fbf2c0.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/3e1ad262-b401-4d8f-adf7-f1a2ff08bc77.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\3e1ad262-b401-4d8f-adf7-f1a2ff08bc77.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/43d52578-4c2f-4ee2-879d-460dfd2ad007.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\43d52578-4c2f-4ee2-879d-460dfd2ad007.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/764ff672-2338-43fb-b943-1dd9ca036e26.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\764ff672-2338-43fb-b943-1dd9ca036e26.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/83385465-2eb5-47ec-a3ea-02f0e932696a.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\83385465-2eb5-47ec-a3ea-02f0e932696a.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/859d74c6-4281-455c-ad92-33680720c1b2.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\859d74c6-4281-455c-ad92-33680720c1b2.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/b9ecc26e-ec6e-40a4-b009-64224baecdfd.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\b9ecc26e-ec6e-40a4-b009-64224baecdfd.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/cb700667-949a-433b-9ae5-d52ab21a1a3b.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\cb700667-949a-433b-9ae5-d52ab21a1a3b.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/cde7209a-87ff-4bdb-9a41-128624fbec27.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\cde7209a-87ff-4bdb-9a41-128624fbec27.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/d8e7216b-1f9c-4cae-a717-0ff482e9e05e.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\d8e7216b-1f9c-4cae-a717-0ff482e9e05e.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/d9a4111b-8183-49d4-b5d4-656254ee1c97.webp
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\d9a4111b-8183-49d4-b5d4-656254ee1c97.webp
+Content Type: image/webp
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/depoimento_4.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\depoimento_4.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/imagem_pgina_de_vendas.jpg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\imagem_pgina_de_vendas.jpg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-content/uploads/2025/01/whatsapp_image_2023-10-02_at_15.41.42_1.jpeg
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-content\uploads\2025\01\whatsapp_image_2023-10-02_at_15.41.42_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-json/
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flp.descompliqueadermatologia.com.br%2Fpag-vnd-v4%2F
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Flp.descompliqueadermatologia.com.br%2Fpag-vnd-v4%2F&format=xml
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lp.descompliqueadermatologia.com.br/wp-json/wp/v2/pages/1256
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\wp-json\wp\v2\pages\1256
+Content Type: application/json
+
+Uri: https://lp.descompliqueadermatologia.com.br/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\lp.descompliqueadermatologia.com.br\xmlrpc.php
+Content Type: text/xml
+
